@@ -18,7 +18,7 @@ public class MyPersonAdapter extends ArrayAdapter {
 
     private Context context;
     private int layout;
-    private ArrayList<Person> data;
+    private final ArrayList<Person> data;
 
 
 
